@@ -13,6 +13,6 @@ The Structural Simulation Toolkit (SST) was developed to explore innovations in 
 
 Visit [sst-simulator.org](http://sst-simulator.org) to learn more about SST.
 
-See [Contributing](https://github.com/sstsimulator/sst-core/blob/devel/CONTRIBUTING.md) to learn how to contribute to SST.
+See [Contributing](https://github.com/sstsimulator/sst-core/blob/devel/CONTRIBUTING.md) to learn how to contribute to SST. --
 
 ##### [LICENSE](https://github.com/sstsimulator/sst-core/blob/devel/LICENSE)
